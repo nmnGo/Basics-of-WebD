@@ -1,0 +1,19 @@
+body {
+    background-color: yellow;
+}
+
+.heading {
+    font-size: 10rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: green;
+    color: yellow;
+}
+
+.ss {
+    color: red;
+}
+
+.margin {
+    margin: 19px;
+    margin-left: 40px;
+}
